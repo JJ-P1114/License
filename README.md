@@ -1,1 +1,0 @@
-# LicenseInListFormat.txt
